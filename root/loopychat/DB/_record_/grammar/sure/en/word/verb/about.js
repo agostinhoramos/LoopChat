@@ -1,0 +1,1 @@
+{"lastcode":5207,"type":"c","name":"consists","time":"20181122231543","max_len":11,"min_len":4}

@@ -1,0 +1,28 @@
+{
+     "key": [
+          [
+               "oi",
+               "ola",
+               "boas",
+               "oi , tudo bem ?",
+               "ola , tudo bom ?"
+          ],
+          [
+               "preciso de ajuda",
+               "ajuda",
+               "como se faz"
+          ]
+     ],
+     "qst": [
+          "",
+          ""
+     ],
+     "awr": [
+          "Olá tudo bem?",
+          "Como posso ajudar?"
+     ],
+     "lvl": [
+          1,
+          2
+     ]
+}

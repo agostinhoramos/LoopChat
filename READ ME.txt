@@ -1,0 +1,5 @@
+-- by Agostinho De Pina Ramos --
+
+## Objectivo ##
+
+- Desenvolver um software capaz de estabelecer uma conversa com duas pessoas de forma rápida e segura permitindo também a troca de ficheiros e não só.

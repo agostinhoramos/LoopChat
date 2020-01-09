@@ -1,0 +1,1 @@
+{"lastcode":5856,"type":"z","name":"zoos","time":"20181122231718","max_len":8,"min_len":3}
